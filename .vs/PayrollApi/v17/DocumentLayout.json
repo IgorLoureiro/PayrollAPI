@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|c:\\users\\igorl\\desktop\\programa\u00E7\u00E3o\\projeto\\payrollapi\\payrollapi\\payrollapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\payrollapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\payrollapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PayrollApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PayrollApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T22:41:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "PayrollApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "PayrollApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:43:52.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PayrollApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PayrollApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:43:51.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
