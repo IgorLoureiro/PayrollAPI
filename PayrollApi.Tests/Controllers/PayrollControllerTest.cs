@@ -3,19 +3,24 @@ using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Results;
 using PayrollApi.Controllers;
+using PayrollApi.Data;
 using PayrollApi.Models;
 using Xunit;
+using System.Threading.Tasks;
 
 namespace PayrollApi.Tests.Controllers
 {
     public class PayrollControllerTest
     {
+
+        readonly DbContextOracle _context = new DbContextOracle();
+
         [Fact]
         public void GetAll_ShouldReturnAllPayrolls()
         {
             //Arrange
             
-            var controller = new PayrollController()
+            var controller = new PayrollController(_context)
             {
                 Request = new HttpRequestMessage(),
                 Configuration = new HttpConfiguration()
@@ -28,14 +33,13 @@ namespace PayrollApi.Tests.Controllers
             //Assert
             
             Assert.NotNull(result);
-            
         }
         
         [Fact]
         public void Add_ShouldAddPayrollAndReturnIt()
         {
             // Arrange
-            var controller = new PayrollController
+            var controller = new PayrollController(_context)
             {
                 Request = new HttpRequestMessage(),
                 Configuration = new HttpConfiguration()
@@ -45,7 +49,7 @@ namespace PayrollApi.Tests.Controllers
             {
                 EmployeeName = "John Doe",
                 Salary = 3000.00m,
-                PaymentDate = DateTime.Now
+                PaymentDate = DateTime.UtcNow
             };
 
             // Act
@@ -56,11 +60,11 @@ namespace PayrollApi.Tests.Controllers
         }
 
         [Fact]
-        public void Get_ShouldReturnASpecificPayroll()
+        public async Task Get_ShouldReturnASpecificPayroll()
         {
             //Arrange
             
-            var controller = new PayrollController
+            var controller = new PayrollController(_context)
             {
                 Request = new HttpRequestMessage(),
                 Configuration = new HttpConfiguration()
@@ -77,7 +81,7 @@ namespace PayrollApi.Tests.Controllers
             
             //Act
             
-            controller.Add(newPayroll);
+            await controller.Add(newPayroll);
             
             var result = controller.Get(id);
             
@@ -88,11 +92,13 @@ namespace PayrollApi.Tests.Controllers
         }
         
         [Fact]
-        public void Delete_ShouldDeleteASpecificPayroll()
+        public async Task Delete_ShouldDeleteASpecificPayroll()
         {
             //Arrange
+
+            const int id = 1;
             
-            var controller = new PayrollController
+            var controller = new PayrollController(_context)
             {
                 Request = new HttpRequestMessage(),
                 Configuration = new HttpConfiguration()
@@ -104,12 +110,10 @@ namespace PayrollApi.Tests.Controllers
                 Salary = 3000.00m,
                 PaymentDate = DateTime.Now
             };
-
-            var id = 1;
             
             //Act
             
-            controller.Add(newPayroll);
+            await controller.Add(newPayroll);
             
             var result = controller.Delete(id);
             
@@ -120,11 +124,11 @@ namespace PayrollApi.Tests.Controllers
         }
         
         [Fact]
-        public void Put_ShouldUpdateASpecificPayroll()
+        public async Task Put_ShouldUpdateASpecificPayroll()
         {
             //Arrange
             
-            var controller = new PayrollController
+            var controller = new PayrollController(_context)
             {
                 Request = new HttpRequestMessage(),
                 Configuration = new HttpConfiguration()
@@ -148,9 +152,9 @@ namespace PayrollApi.Tests.Controllers
             
             //Act
             
-            controller.Add(newPayroll);
+            await controller.Add(newPayroll);
             
-            var result = controller.Put(id, newPayrollUpdate) as OkNegotiatedContentResult<Payroll>;
+            var result = await controller.Put(id, newPayrollUpdate) as OkNegotiatedContentResult<Payroll>;
             
             //Assert
             

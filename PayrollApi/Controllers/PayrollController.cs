@@ -1,5 +1,7 @@
-using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Web.Http;
+using PayrollApi.Data;
 using PayrollApi.Models;
 using PayrollApi.Services;
 
@@ -8,20 +10,27 @@ namespace PayrollApi.Controllers
     [RoutePrefix("api/payroll")]
     public class PayrollController : ApiController
     {
-       private static readonly List<Payroll> Payrolls = new List<Payroll>();
+
+        private readonly DbContextOracle _context;
+
+        public PayrollController(DbContextOracle context) 
+        { 
+            _context = context;
+        }
 
        [HttpGet]
        [Route("")]
        public IHttpActionResult GetAll()
        {
-           return Ok(Payrolls);
+            var allPayrolls = _context.Payrolls.ToList();
+            return Ok(allPayrolls);
        }
 
        [HttpGet]
        [Route("{id:int}")]
        public IHttpActionResult Get(int id)
        {
-           var payroll = Payrolls.Find(x => x.Id == id);
+           var payroll = _context?.Payrolls?.Where(x => x.Id == id).FirstOrDefault();
            if (payroll == null)
            {
                return NotFound();
@@ -32,7 +41,7 @@ namespace PayrollApi.Controllers
 
        [HttpPost]
        [Route("")]
-       public IHttpActionResult Add([FromBody]Payroll payroll)
+       public async Task<IHttpActionResult> Add([FromBody]Payroll payroll)
        {
            var isPayrollValid = PayrollService.ValidatePayrollObject(payroll);
            
@@ -41,27 +50,28 @@ namespace PayrollApi.Controllers
                return BadRequest("Object is not a valid Payroll");
            }
            
-           payroll.Id = Payrolls.Count + 1;
-           Payrolls.Add(payroll);
+           _context.Payrolls.Add(payroll);
+           await _context.SaveChangesAsync();
            return Ok(payroll);
        }
 
        [HttpDelete]
        [Route("{id:int}")]
-       public IHttpActionResult Delete(int id)
+       public async Task<IHttpActionResult> Delete(int id)
        {
-           var payroll = Payrolls.Find(x => x.Id == id);
+           var payroll = _context?.Payrolls?.Where(x => x.Id == id).FirstOrDefault();
            
            if(payroll == null) return BadRequest("Payroll not found");
-           
-           Payrolls.Remove(payroll);
-           
-           return Ok(payroll);
+
+            _context.Payrolls.Remove(payroll);
+            await _context.SaveChangesAsync();
+
+            return Ok(payroll);
        }
 
        [HttpPut]
        [Route("{id:int}")]
-       public IHttpActionResult Put(int id, [FromBody] Payroll payroll)
+       public async Task<IHttpActionResult> Put(int id, [FromBody] Payroll payroll)
        {
            
            var isPayrollValid = PayrollService.ValidatePayrollObject(payroll);
@@ -71,9 +81,15 @@ namespace PayrollApi.Controllers
                return BadRequest("Object is not a valid Payroll");
            }
            
-           var index = Payrolls.FindIndex(x => x.Id == id);
-           Payrolls[index] = payroll;
-           return Ok(Payrolls[index]);
+           var updatePayroll = _context?.Payrolls?.Where(x => x.Id == id).FirstOrDefault();
+
+           if (updatePayroll == null) return BadRequest();
+
+           updatePayroll = payroll;
+           await _context.SaveChangesAsync();
+
+           return Ok(updatePayroll);
        }
+       
     }
 }

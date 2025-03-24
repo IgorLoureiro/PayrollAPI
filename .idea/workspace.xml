@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7002c0e-63d5-4904-a041-13b0557de967" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PayrollApi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PayrollApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d4126949-c602-4f0d-9133-af7db72c8ca1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d4126949-c602-4f0d-9133-af7db72c8ca1/storage_v2/_src_/schema/SYS.rUIBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d4126949-c602-4f0d-9133-af7db72c8ca1/storage_v2/_src_/schema/SYSTEM.L2avkg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/PayrollApi/FileContentIndex/408c64bf-61f2-4cd3-aae6-a85aa4eaeca1.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/PayrollApi/FileContentIndex/43511c83-4d3e-421e-a6d4-1589f3c0bb74.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/PayrollApi/FileContentIndex/6dcd2ca3-f0c2-4722-a8c9-7361231f895f.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/PayrollApi/FileContentIndex/e7392d43-4633-4287-ac3a-4f4a07967dcc.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/PayrollApi/FileContentIndex/ed5f900e-20df-45d7-b0e4-6e75815169d4.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/PayrollApi/v17/TestStore/0/000.testlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/PayrollApi/v17/TestStore/0/testlog.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/.vs/PayrollApi.Tests.csproj.dtbcache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/Oracle.DataAccess.Common.Configuration.Section.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/Oracle.ManagedDataAccess.Client.Configuration.Section.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Oracle.ManagedDataAccess.EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Oracle.ManagedDataAccess.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.Formats.Asn1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.Formats.Asn1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Unity.WebApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/.vs/PayrollApi.csproj.dtbcache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/App_Start/UnityConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/Data/DbContextOracle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/Migrations/202503230049410_InitialCreate.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/Migrations/202503230049410_InitialCreate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/Migrations/202503230049410_InitialCreate.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/Migrations/Configuration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/Oracle.DataAccess.Common.Configuration.Section.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/Oracle.ManagedDataAccess.Client.Configuration.Section.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/Oracle.ManagedDataAccess.EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/Oracle.ManagedDataAccess.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.Formats.Asn1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.Formats.Asn1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/System.ValueTuple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/bin/Unity.WebApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.Migrations.InitialCreate.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.csproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/Microsoft.Bcl.AsyncInterfaces.8.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/PACKAGE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/buildTransitive/net461/Microsoft.Bcl.AsyncInterfaces.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/buildTransitive/net462/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/net462/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/Oracle.ManagedDataAccess.23.7.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/PerfCounters/register_odpm_perfmon_counters.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/PerfCounters/unregister_odpm_perfmon_counters.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/bin/x64/Oracle.ManagedDataAccessIOP.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/App.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/App.config.transform" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/App.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/Oracle.DataAccess.Common.Configuration.Section.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/Oracle.ManagedDataAccess.Client.Configuration.Section.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/Web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/Web.config.transform" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/content/net472/Web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/lib/net472/Oracle.ManagedDataAccess.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.23.7.0/oracle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/Oracle.ManagedDataAccess.EntityFramework.23.7.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/content/net472/App.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/content/net472/App.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/content/net472/Web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/content/net472/Web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/lib/net472/Oracle.ManagedDataAccess.EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Oracle.ManagedDataAccess.EntityFramework.23.7.0/oracle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/System.Formats.Asn1.8.0.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/buildTransitive/net461/System.Formats.Asn1.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/buildTransitive/net462/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/buildTransitive/net6.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/buildTransitive/netcoreapp2.0/System.Formats.Asn1.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net462/System.Formats.Asn1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net462/System.Formats.Asn1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net6.0/System.Formats.Asn1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net6.0/System.Formats.Asn1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net7.0/System.Formats.Asn1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net7.0/System.Formats.Asn1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net8.0/System.Formats.Asn1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/net8.0/System.Formats.Asn1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/netstandard2.0/System.Formats.Asn1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/lib/netstandard2.0/System.Formats.Asn1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/System.Text.Encodings.Web.8.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/buildTransitive/net461/System.Text.Encodings.Web.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/buildTransitive/net462/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/buildTransitive/net6.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/buildTransitive/netcoreapp2.0/System.Text.Encodings.Web.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net462/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net462/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net6.0/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net6.0/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net7.0/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net7.0/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net8.0/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/net8.0/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/netstandard2.0/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/lib/netstandard2.0/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Encodings.Web.8.0.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/PACKAGE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/System.Text.Json.8.0.5.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/System.Text.Json.SourceGeneration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/cs/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/de/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/es/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/fr/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/it/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/ja/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/ko/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/pl/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/ru/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/tr/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn3.11/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/System.Text.Json.SourceGeneration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/cs/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/de/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/es/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/fr/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/it/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/ja/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/ko/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/pl/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/ru/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/tr/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.0/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/System.Text.Json.SourceGeneration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/cs/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/de/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/es/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/fr/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/it/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/ja/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/ko/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/pl/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/ru/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/tr/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/analyzers/dotnet/roslyn4.4/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/buildTransitive/net461/System.Text.Json.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/buildTransitive/net462/System.Text.Json.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/buildTransitive/net6.0/System.Text.Json.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/buildTransitive/netcoreapp2.0/System.Text.Json.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/buildTransitive/netstandard2.0/System.Text.Json.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net462/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net462/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net6.0/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net6.0/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net7.0/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net7.0/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net8.0/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/net8.0/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/netstandard2.0/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/lib/netstandard2.0/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Text.Json.8.0.5/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/System.ValueTuple.4.5.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net461/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net461/System.ValueTuple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net47/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net47/System.ValueTuple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netstandard2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8/System.ValueTuple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/uap10.0.16299/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/net461/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/net47/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/netstandard2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/uap10.0.16299/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/Unity.5.11.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net40/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net40/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net40/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net40/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net45/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net45/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net45/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net45/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net46/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net46/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net46/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net46/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net47/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net47/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net47/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/net47/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp1.0/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp1.0/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp1.0/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp1.0/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp2.0/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp2.0/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp2.0/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netcoreapp2.0/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard1.0/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard1.0/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard1.0/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard1.0/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard2.0/Unity.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard2.0/Unity.Abstractions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard2.0/Unity.Container.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.5.11.1/lib/netstandard2.0/Unity.Container.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.WebAPI.5.4.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.WebAPI.5.4.0/Build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.WebAPI.5.4.0/NuGet.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.WebAPI.5.4.0/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.WebAPI.5.4.0/Unity.WebAPI.5.4.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.WebAPI.5.4.0/content/App_Start/UnityConfig.cs.pp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Unity.WebAPI.5.4.0/lib/net45/Unity.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PayrollApi/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PayrollApi/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/PayrollApi/FileContentIndex/27e85eb4-db34-4e34-9933-54dc1665d235.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/PayrollApi/FileContentIndex/889c2445-0316-4f8e-8d91-ca69025867ac.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/PayrollApi/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/PayrollApi/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/PayrollApi/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/PayrollApi/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/PayrollApi/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/PayrollApi/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/Controllers/PayrollControllerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/Controllers/PayrollControllerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/PayrollApi.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/PayrollApi.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.Tests.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.Tests.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/PayrollApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/obj/Debug/PayrollApi.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.Tests/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/App_Start/WebApiConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/App_Start/WebApiConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/Controllers/PayrollController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/Controllers/PayrollController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/PayrollApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/PayrollApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/bin/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/bin/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/bin/Microsoft.Bcl.AsyncInterfaces.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/bin/Microsoft.Bcl.AsyncInterfaces.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/bin/PayrollApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/bin/PayrollApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/bin/PayrollApi.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/bin/PayrollApi.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/bin/PayrollApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/bin/PayrollApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/obj/Debug/PayrollApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollApi/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/.signature.p7s" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/.signature.p7s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/Icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/Icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/LICENSE.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/LICENSE.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/Microsoft.Bcl.AsyncInterfaces.5.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/THIRD-PARTY-NOTICES.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Formats.Asn1.8.0.1/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/lib/net461/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/lib/net461/Microsoft.Bcl.AsyncInterfaces.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/net462/Microsoft.Bcl.AsyncInterfaces.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollApi.Tests/bin/Debug/System.ValueTuple.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/useSharedDesignerContext.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Bcl.AsyncInterfaces.5.0.0/version.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2uVzdt6ntlOywab7LEWhZWEMtq7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/IgorL/Desktop/Programação/Projeto/PayrollAPI/PayrollApi&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;Oracle&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

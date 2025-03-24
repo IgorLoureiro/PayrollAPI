@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|c:\\users\\igorl\\desktop\\programa\u00E7\u00E3o\\projeto\\payrollapi\\payrollapi\\payrollapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|c:\\users\\igorl\\desktop\\programa\u00E7\u00E3o\\projeto\\payrollapi\\payrollapi\\payrollapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\payrollapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\payrollapi\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\payrollapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{660B9A16-5EDF-487E-939A-B7CDBAB34176}|PayrollApi.Tests\\PayrollApi.Tests.csproj|c:\\users\\igorl\\desktop\\programa\u00E7\u00E3o\\projeto\\payrollapi\\payrollapi\\payrollapi.tests\\controllers\\payrollcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660B9A16-5EDF-487E-939A-B7CDBAB34176}|PayrollApi.Tests\\PayrollApi.Tests.csproj|solutionrelative:payrollapi.tests\\controllers\\payrollcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\payrollapi\\data\\dbcontextoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\data\\dbcontextoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660B9A16-5EDF-487E-939A-B7CDBAB34176}|PayrollApi.Tests\\PayrollApi.Tests.csproj|c:\\users\\igorl\\desktop\\programa\u00E7\u00E3o\\projeto\\payrollapi\\payrollapi\\payrollapi.tests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{660B9A16-5EDF-487E-939A-B7CDBAB34176}|PayrollApi.Tests\\PayrollApi.Tests.csproj|solutionrelative:payrollapi.tests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|c:\\users\\igorl\\desktop\\programa\u00E7\u00E3o\\projeto\\payrollapi\\payrollapi\\payrollapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CFC69B8B-1A57-4799-987F-AAA7D1BD78F3}|PayrollApi\\PayrollApi.csproj|solutionrelative:payrollapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "PayrollApi\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "PayrollApi\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:41:57.546Z",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi.Tests\\App.config",
+              "RelativeDocumentMoniker": "PayrollApi.Tests\\App.config",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi.Tests\\App.config",
+              "RelativeToolTip": "PayrollApi.Tests\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-24T00:06:26.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Web.config",
+              "RelativeDocumentMoniker": "PayrollApi\\Web.config",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Web.config",
+              "RelativeToolTip": "PayrollApi\\Web.config",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-23T23:50:15.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "PayrollApi\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "PayrollApi\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "PayrollControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi.Tests\\Controllers\\PayrollControllerTest.cs",
+              "RelativeDocumentMoniker": "PayrollApi.Tests\\Controllers\\PayrollControllerTest.cs",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi.Tests\\Controllers\\PayrollControllerTest.cs",
+              "RelativeToolTip": "PayrollApi.Tests\\Controllers\\PayrollControllerTest.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwEUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:43:52.895Z"
+              "WhenOpened": "2025-03-23T23:36:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "PayrollApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "PayrollApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:19:56.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextOracle.cs",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Data\\DbContextOracle.cs",
+              "RelativeDocumentMoniker": "PayrollApi\\Data\\DbContextOracle.cs",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Data\\DbContextOracle.cs",
+              "RelativeToolTip": "PayrollApi\\Data\\DbContextOracle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:37:52.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PayrollApi\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PayrollApi\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Title": "PayrollController.cs",
+              "DocumentMoniker": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\PayrollController.cs",
+              "RelativeDocumentMoniker": "PayrollApi\\Controllers\\PayrollController.cs",
+              "ToolTip": "C:\\Users\\IgorL\\Desktop\\Programa\u00E7\u00E3o\\Projeto\\PayrollAPI\\PayrollApi\\PayrollApi\\Controllers\\PayrollController.cs",
+              "RelativeToolTip": "PayrollApi\\Controllers\\PayrollController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwC8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:43:51.436Z"
+              "WhenOpened": "2025-03-23T00:01:06.291Z",
+              "EditorCaption": ""
             }
           ]
         }
